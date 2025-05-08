@@ -1,3 +1,10 @@
+# Nama Kelompok :
+- R.KRISNA NUR FADHILLAH(312310550)
+- HAFIZH RIZQI PRATAMA YUDIANSYAH()
+- HERYANTO KURNIA PUTRA(312310268)
+- RAKA MUZAKKI(312310239)
+- FERRY BERNAT(312310714)
+
 # Playmusic
 aplikasi mp3 player ini membantu pengguna menikmati lagu secara offline tanpa pusing mikirin sebrapa besar kuota internet yang pengguna gunakan
 
