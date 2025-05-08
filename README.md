@@ -8,3 +8,5 @@ aplikasi mp3 player ini membantu pengguna menikmati lagu secara offline tanpa pu
 ## UI/UX
 ![image](https://github.com/user-attachments/assets/f911ee35-b171-415e-8f4c-cabde6788082)
 
+## SCRUM Trello
+https://trello.com/b/QGqpcJGo/project-music-app
